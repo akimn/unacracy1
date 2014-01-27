@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Unacracy::Application.config.secret_key_base = '81875ad3d6374850e627d67b070bcca54e81df6612a9b4c89c8397efec055fcbb79579e8a0a1c7c1dee8abb2b2a1018116611d6ab979fd322803f435104a1ef2'
+Unacracy1::Application.config.secret_key_base = '81875ad3d6374850e627d67b070bcca54e81df6612a9b4c89c8397efec055fcbb79579e8a0a1c7c1dee8abb2b2a1018116611d6ab979fd322803f435104a1ef2'

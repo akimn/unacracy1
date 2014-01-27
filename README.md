@@ -1,6 +1,6 @@
 # uracracy
 
-This the uracracy stock build
+This the uracracy1 stock build
 [*my web*]
 
 by [Andrew Kimn]
