@@ -1,4 +1,4 @@
-Unacracy::Application.routes.draw do
+Unacracy1::Application.routes.draw do
   resources :pins
   #resources :names
 

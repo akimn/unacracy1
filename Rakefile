@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Unacracy::Application.load_tasks
+Unacracy1::Application.load_tasks

@@ -9,8 +9,11 @@
         <span class="icon-bar"></span>
       </button>
 
+
+
       <%= link_to "THYWORSHIP", root_path, class: "navbar-brand" %>
-     <!-- <a class="navbar-brand" href="#">URACRACY</a>-->
+
+
     </div>
 
 
@@ -18,7 +21,11 @@
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav navbar-right">
         <li><%= link_to "HOME", root_path %></li>
+
         <li><%= link_to "ABOUT", about_path %></li>
+
+        <li><%= link_to "WHAT?", about_path %></li>
+
         <%if user_signed_in? %>
             <li><%= link_to '+ADD', new_pin_path %></li>
             <li><%= link_to "SETTINGS", edit_user_registration_path %></li>
